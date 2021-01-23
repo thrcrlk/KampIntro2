@@ -15,7 +15,7 @@ namespace GenecricsIntro
             isimler.Add("Ahmet");
             isimler.Add("Semih");
             Console.WriteLine(isimler.Lenght);
-          
+            
 
             foreach (var isim in isimler.Items)
             {

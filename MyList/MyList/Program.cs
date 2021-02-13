@@ -16,7 +16,7 @@ namespace MyList
             //{
             //    Console.WriteLine(x);
             //}
-            //Console.WriteLine(myList.Items[myList.Length-1]); 
+            Console.WriteLine(myList.Items[myList.Length-1]); // tanımlanan yeni listeler bu şekilde de çağırılabilir.
         }
     }
 }

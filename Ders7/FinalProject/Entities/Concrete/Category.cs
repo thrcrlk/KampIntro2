@@ -1,4 +1,4 @@
-﻿using Entities.Abstract;///Abstract klasöründeki Entity interface tanımlaması
+﻿using Core.Entites;
 using System;
 using System.Collections.Generic;
 using System.Text;

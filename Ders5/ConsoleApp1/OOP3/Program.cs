@@ -12,6 +12,7 @@ namespace OOP3
             ICreditManager personelCreditMaganer = new PersonelCreditManager();
             ICreditManager vehicleCreditManager = new VehicleCreditManager();
 
+
             //Database loglama methodlarını tanımlama
             ILoggerService dataBaseLogger = new DatabaseLoggerService();
             ILoggerService fileLogger = new FileLoggerService();
